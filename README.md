@@ -56,13 +56,6 @@ To **assess financial performance**, support strategic decision-making, and enha
 
 ---
 
-## 📥 How to Use  
-1. Clone or download this repository.  
-2. Open the `.xlsx` files in **Excel (desktop version)** for full Power Query & Power Pivot functionality.  
-3. Use **filters, slicers, and interactive elements** to explore the reports.  
-4. Refresh data via `Data → Refresh All` for updated insights.  
-
----
 
 ## 📬 Contact  
 For questions, feedback, or collaboration opportunities, feel free to reach out:  
