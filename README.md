@@ -10,8 +10,8 @@ This repository contains a set of dynamic Excel reports built for **AtliQ Hardwa
 
 | Report Name | Description |
 |-------------|-------------|
-| [P & L by Quarters](./files/P&L_by_Quarters.xlsx) | Quarterly Profit & Loss summary report showing revenue, expenses, and profit trends. |
-| [P & L by Country (Fiscal Year)](./files/P&L_by_Country_Fiscal_Year.xlsx) | Annual P&L breakdown for each operating country, highlighting fiscal year performance. |
+| [P & L by Quarters](https://github.com/aviraljoshi27/Excel-sales-report/blob/main/P%20%26%20L%20by%20quaters.pdf) | Quarterly Profit & Loss summary report showing revenue, expenses, and profit trends. |
+| [P & L by Country (Fiscal Year)](https://github.com/aviraljoshi27/Excel-sales-report/blob/main/Performance%20vs%20Target%20for%20different%20markets.pdf) | Annual P&L breakdown for each operating country, highlighting fiscal year performance. |
 | [Performance vs Target (Markets)](./files/Performance_vs_Target_Markets.xlsx) | Market-wise comparison of actual vs target performance, including variance analysis. |
 | [Revenue Report](./files/Revenue_Report.xlsx) | Comprehensive revenue analysis with filters for country, year, and channel. |
 
