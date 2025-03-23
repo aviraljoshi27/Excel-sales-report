@@ -1,63 +1,72 @@
-# Excel-sales-report
+# 📊 Sales & Finance Reporting Suite  
 
-# 📊 AtliQ Hardwares – Excel Sales Reporting Suite
-
-This repository contains a set of dynamic Excel reports built for **AtliQ Hardwares** using **Power Query**, **DAX (Power Pivot)**, and advanced **Excel analytics features**. These reports are designed to help analyze financial and operational performance across different dimensions including time, geography, and market segments.
+This repository contains **dynamic sales and finance reports** built using **Power Query, Power Pivot (DAX), and advanced Excel analytics features**. These reports provide **actionable insights** to enhance business decision-making.  
 
 ---
 
-## 📁 Files Included
+## 📌 Sales Report  
 
-| Report Name | Description |
-|-------------|-------------|
-| [P & L by Quarters](https://github.com/aviraljoshi27/Excel-sales-report/blob/main/P%20%26%20L%20by%20quaters.pdf) | Quarterly Profit & Loss summary report showing revenue, expenses, and profit trends. |
-| [P & L by Country (Fiscal Year)](https://github.com/aviraljoshi27/Excel-sales-report/blob/main/Performance%20vs%20Target%20for%20different%20markets.pdf) | Annual P&L breakdown for each operating country, highlighting fiscal year performance. |
-| [Performance vs Target (Markets)](./files/Performance_vs_Target_Markets.xlsx) | Market-wise comparison of actual vs target performance, including variance analysis. |
-| [Revenue Report](./files/Revenue_Report.xlsx) | Comprehensive revenue analysis with filters for country, year, and channel. |
+### 🎯 Project Objectives  
+- Developed an interactive [Customer Performance Report]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf](https://github.com/aviraljoshi27/Excel-sales-report/blob/main/Revenue%20report.pdf))  
+- Conducted a comparative analysis of [Market Performance vs Sales Targets]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf](https://github.com/aviraljoshi27/Excel-sales-report/blob/main/Performance%20vs%20Target%20for%20different%20markets.pdf))  
 
-> 🔁 Replace `./files/filename.xlsx` with the actual GitHub path or public file link if stored elsewhere (e.g., OneDrive, Google Drive, SharePoint).
+### 📈 Purpose of Sales Analytics  
+To enable businesses to **monitor, evaluate, and optimize** sales performance through data-driven insights.  
 
----
-
-## 🧠 Features & Techniques Used
-
-- **Power Query** – Automated data import, transformation & cleaning  
-- **Power Pivot with DAX** – Advanced calculations & KPI logic  
-- **PivotTables & Slicers** – Interactive filtering and analysis  
-- **Conditional Formatting** – Visual cues for insights  
-- **Scenario Planning Tools** – Custom matrix for what-if analysis  
+### 🔍 Key Insights & Benefits  
+- Identification of **sales trends** and **performance patterns**  
+- Measurement of **key performance indicators (KPIs)** for strategic planning  
+- Support for **pricing strategies, customer negotiations, and market expansion**  
 
 ---
 
-## ✅ Use Case Scenarios
+## 📑 Finance Report  
 
-- Track P&L by time period and region  
-- Compare actual vs target performance  
-- Explore revenue trends and business drivers  
-- Prioritize projects and allocate resources effectively  
+### 🎯 Project Objectives  
+- Created **Profit & Loss (P&L) Reports** by:  
+  - [Fiscal Year]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf](https://github.com/aviraljoshi27/Excel-sales-report/blob/main/Performance%20vs%20Target%20for%20different%20markets.pdf))  
+  - [quaters]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf](https://github.com/aviraljoshi27/Excel-sales-report/blob/main/P%20%26%20L%20by%20quaters.pdf))   
 
----
+### 📊 Purpose of Financial Analytics  
+To **assess financial performance**, support strategic decision-making, and enhance communication with stakeholders.  
 
-## 💡 How to Use
-
-1. Download or clone this repo.
-2. Open each `.xlsx` file in **Excel (desktop version)** for full feature support.
-3. Use filters/slicers to explore the data.
-4. To refresh Power Query connections:  
-   `Data` → `Refresh All`
-
----
-
-## 📬 Contact
-
-Feel free to connect if you'd like to discuss this project, collaborate, or provide feedback.
-
-**Author:** Your Name  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**Email:** yourname@email.com
+### 🔍 Key Insights & Benefits  
+- Benchmarking against **industry peers** and **historical performance**  
+- Strengthening **budgeting and forecasting** capabilities  
+- Aligning financial planning with **long-term strategic goals**  
+- Instilling confidence in the **organization’s financial health**  
 
 ---
 
-## 📌 License
+## 🛠️ Technical Skills  
+- ✔️ Expertise in **ETL methodology (Extract, Transform, Load)** using Power Query  
+- ✔️ Advanced skills in **Power Query** for **automated data transformation**  
+- ✔️ Ability to derive **fiscal months & quarters** for time intelligence reporting  
+- ✔️ Proficient in establishing **data model relationships** with Power Pivot  
+- ✔️ Capability to integrate **supplementary datasets** into existing models  
+- ✔️ Advanced **DAX (Data Analysis Expressions)** for calculated columns & custom measures  
 
-This project is shared under the MIT License. See [LICENSE](./LICENSE) for more details.
+---
+
+## 🤝 Soft Skills  
+- ✔️ Strong understanding of **Sales & Finance Reporting frameworks**  
+- ✔️ User-focused **report design** to ensure clarity & usability  
+- ✔️ Continuous **optimization & fine-tuning** for performance efficiency  
+- ✔️ Strategic approach to **report planning & execution**  
+
+---
+
+## 📥 How to Use  
+1. Clone or download this repository.  
+2. Open the `.xlsx` files in **Excel (desktop version)** for full Power Query & Power Pivot functionality.  
+3. Use **filters, slicers, and interactive elements** to explore the reports.  
+4. Refresh data via `Data → Refresh All` for updated insights.  
+
+---
+
+## 📬 Contact  
+For questions, feedback, or collaboration opportunities, feel free to reach out:  
+
+📧 **Email:** aviraljoshi2718@gmail.com  
+🔗 **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/aviral-joshi-85910a212)  
+
